@@ -21,4 +21,4 @@
 参考文献:
 
     [1]机器学习.周志华[著].清华大学出版社[2016].
-    [2]机器学习实战-基于scikit-learn 和 TensorFlow.Aurelien Geron[著].王静源[译].机械工业出版社[2018].
+    [2]机器学习实战-基于scikit-learn 和 TensorFlow.Aurelien Geron[著].王静源等[译].机械工业出版社[2018].
